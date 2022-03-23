@@ -19,3 +19,4 @@ jobs:
         with:
           distribution: 'adopt'
           java-version: ${{ matrix.java }}
+      - run: mvn test
