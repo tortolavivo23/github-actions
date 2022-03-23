@@ -18,6 +18,7 @@ public class ItemsControllerTest {
 		boolean itemCheked = false;
 		item.setDescription(itemDescription);
 		item.setChecked(itemCheked);
+		itemDescription = "Tomatito";
 
 		// WHEN
 
