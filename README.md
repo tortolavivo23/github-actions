@@ -1,6 +1,5 @@
 # AIS GitHub Actions
 
-modificado
 
 Este proyecto consta de un servidor REST sencillo para la gestión de items.
 
